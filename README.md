@@ -1,4 +1,4 @@
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm hubdocker 使用
 
 <h1 align="center"> 免责声明 </h1>
 
@@ -25,7 +25,9 @@ mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
 客户端： android Actinium、windows v2ray 可用同一个服务端。
 
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm v2ray openshift 部署
+
+https://www.youtube.com/watch?v=s83EXZbb8vQ
 
 # v2ray 部署在 openshift starter
 openshift: 内存设置为256M，每 project 可配置 4 Pods。
@@ -38,5 +40,7 @@ Docker 镜像：doudoubing/cundang:latest，doudoubing/cundang:core版本号
 用notepad++将上述变量中 \r\n 替换为\\n，变成一行，导入容器。
 
 客户端： android Actinium、windows v2ray 可用同一个服务端。
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm youtube 频道
 
 youtube频道：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
